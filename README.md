@@ -1,6 +1,6 @@
 # 😷 Face Mask Detection App
 
-A Python application that uses deep learning and OpenCV to detect whether a person is wearing a face mask in real-time using a webcam or image input.
+A Python application that uses deep learning and OpenCV to detect whether a person is wearing a face mask in real-time using an  image input.
 
 ---
 
